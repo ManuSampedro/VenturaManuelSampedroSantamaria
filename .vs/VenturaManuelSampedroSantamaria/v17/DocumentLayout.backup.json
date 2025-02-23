@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|c:\\users\\manu\\venturamanuelsampedrosantamaria\\assets\\scripts\\tanks\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\johnlemon\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\johnlemon\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\enemy\\canvasenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\enemy\\canvasenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\enemy\\enemytankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\enemy\\enemytankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\player\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\player\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\enemy\\enemytankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\enemy\\enemytankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\enemy\\enemytankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\enemy\\enemytankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\player\\tankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\tankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\assets\\scripts\\tanks\\player\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D2C63-E6DF-3BFB-CC24-2C3E04B28B43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tanks\\player\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Juan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Juan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Tanks\\Shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:18:00.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Enemy\\EnemyManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:57:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\JohnLemon\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JohnLemon\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\JohnLemon\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JohnLemon\\GameManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:02:16.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyTankHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyTankHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Enemy\\EnemyTankHealth.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyTankHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Enemy\\EnemyTankHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:44:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CanvasEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\CanvasEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Enemy\\CanvasEnemy.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\CanvasEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Enemy\\CanvasEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:39:34.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TankHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\TankHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:38:14.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:29:56.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyTankMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyTankMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Enemy\\EnemyTankMovement.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyTankMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Enemy\\EnemyTankMovement.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:46:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyTankAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyTankAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Enemy\\EnemyTankAttack.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Enemy\\EnemyTankAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Enemy\\EnemyTankAttack.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:56:38.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TankAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\TankAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:08:43.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shell.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Shell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Shell.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Shell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Shell.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:03:08.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TankMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tanks\\Player\\TankMovement.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:17:41.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwGMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:47:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detector.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Detector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Detector.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Detector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Detector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:47:20.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Ghost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Ghost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ghost.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:55:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Juan.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Juan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Juan.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\Juan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Juan.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:57:40.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Manu\\VenturaManuelSampedroSantamaria\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:21:39.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
